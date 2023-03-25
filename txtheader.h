@@ -1,9 +1,6 @@
 #include <bits/stdc++.h>
 #include <fstream>
-#include <string>
-#include <algorithm>
 #include <cctype>
-#include <vector>
 
 using namespace std;
 
